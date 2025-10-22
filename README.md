@@ -32,11 +32,11 @@ El modelo de traducción se basa en la arquitectura Transformer, que consta de:
 Para ejecutar el proyecto, sigue estos pasos:
 
 ### Iniciar la API:
-´´´
+```
 uvicorn ml_api:app --reload
-´´´
+```
 
 ### Iniciar la interfaz de usuario:
-´´´
+```
 streamlit run ml_ui.py
-´´´
+```
