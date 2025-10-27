@@ -30,6 +30,10 @@ El modelo de traducción se basa en la arquitectura Transformer, que consta de:
 
 ## Cómo ejecutar el proyecto
 Para ejecutar el proyecto, sigue estos pasos:
+## Inistalacion
+```
+pip install torch fastapi "uvicorn[standard]" streamlit requests
+```
 
 ### Iniciar la API:
 ```
